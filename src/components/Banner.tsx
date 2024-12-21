@@ -35,7 +35,8 @@ const Banner = () => {
             height={120}
           />
 
-          <p className="text-xl font-medium font-outline-2">GEEKS FOR GEEKS</p>
+          
+          <p className="gfg">GEEKS FOR GEEKS</p>
 
         </div>
         <div className="px-4 flex flex-col gap-2 items-center justify-center py-2">
@@ -47,7 +48,7 @@ const Banner = () => {
             height={120}
           />
 
-          <p className="text-xl font-medium font-outline-2">GEEKS FOR GEEKS</p>
+          <p className="text-xl font-medium font-outline-2">GDGoC</p>
 
         </div>
 
