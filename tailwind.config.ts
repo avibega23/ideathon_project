@@ -8,6 +8,22 @@ export default {
   ],
   theme: {
     extend: {
+      borderColor : {
+        "maroon" : "#d6274a",
+        "buttonColor" : "#8a2929"
+      },
+      backgroundColor : {
+        "maroon" : "#d6274a",
+        "buttonColor" : "#8a2929"
+      },
+      textColor : {
+        "maroon" : "#d6274a",
+        "buttonColor" : "#8a2929"
+      },
+      
+      backgroundImage : {
+        bannerImage : "url('../assets/background.jpg')"
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
